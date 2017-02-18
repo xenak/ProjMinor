@@ -14,8 +14,4 @@ Congrats!
 Olga and Xenia
 
 new new new
-<<<<<<< HEAD
-xu is da best
-=======
-olga is the best
->>>>>>> 88f425cfd7d02f0c4f08be17558010416692248a
+

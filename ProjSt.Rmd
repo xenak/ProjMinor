@@ -3,7 +3,6 @@ title: "ProjStart"
 output: html_document
 ---
 
-<<<<<<< HEAD
 hello world!
 it's 18th of february
 
